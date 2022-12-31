@@ -1,0 +1,11 @@
+{
+  "name": "sharp-roku-tv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nicholas Chiang <nicholas.h.chiang@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.3.1",
+  "devDependencies": {
+    "serve": "^14.1.2"
+  }
+}
